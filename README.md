@@ -1,92 +1,40 @@
-# Hi, I'm Meher Omprakash 👋
+<div align="center">
 
-### Full-Stack Developer | AI Builder | Hackathon Winner
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=MEHER%20OMPRAKASH&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
-I’m a developer focused on building **AI-powered products and practical software solutions** that solve real-world problems.
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=Building+AI-powered+products;Turning+ideas+into+real+products;Multiple+National+Hackathon+Winner;Patent+Published" />
 
-I enjoy taking an idea from concept to a working product — from designing the architecture and building the frontend/backend to integrating AI and deploying the final application.
+</div>
+
+---
+
+<div align="center">
+
+### `whoami`
+
+**Full-Stack Developer • AI Builder • Product Developer**
+
+I build AI-powered products and practical software solutions that solve real-world problems.
 
 🏆 Multiple National Hackathon Winner  
 📜 Patent Published  
-🚀 Building AI-powered products  
-💻 Full-Stack Development & AI
+🚀 Building with AI & Full-Stack Technologies
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## `> developer.profile`
 
-### [BuildWise-AI](https://github.com/meheromprakash/BuildWise-AI)
-AI-powered platform designed to help developers and builders turn ideas into structured, actionable projects.
-
-**Tech:** TypeScript • React • AI • Full-Stack Development
-
-### BharatEdu_AI
-AI-powered education-focused platform built to explore how artificial intelligence can improve learning and accessibility.
-
-**Tech:** TypeScript • React • AI
-
-### Bus Tracker
-A practical transport tracking application focused on providing users with a simple way to monitor bus routes and movement.
-
-**Tech:** JavaScript • Web Development
-
----
-
-## 🏆 Achievements
-
-- 🥇 Winner at multiple **National-Level Hackathons**
-- 📜 **Patent Published** for an innovative technology solution
-- 🎯 Participated in multiple innovation and product-building competitions
-- 🚀 Built and deployed multiple real-world software projects
-
----
-
-## 💻 Tech Stack
-
-**Languages**
-
-`TypeScript` `JavaScript` `Python` `Java`
-
-**Frontend**
-
-`React` `Next.js` `HTML` `CSS` `Tailwind CSS`
-
-**Backend & Database**
-
-`Node.js` `Express` `Firebase` `REST APIs`
-
-**AI & Development**
-
-`Artificial Intelligence` `LLMs` `API Integration` `Git` `GitHub`
-
-**Deployment**
-
-`Netlify` `Vercel`
-
----
-
-## 🔭 Currently
-
-- Building AI-powered applications
-- Exploring Generative AI and LLM-based products
-- Improving my full-stack development skills
-- Working on projects that can solve real-world problems
-- Looking for opportunities to collaborate, build, and learn
-
----
-
-## 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meheromprakash&show_icons=true&hide_border=true&theme=transparent)
-
----
-
-## 🤝 Let's Connect
-
-I'm always open to interesting projects, collaborations, hackathons, and opportunities.
-
-[LinkedIn](YOUR_LINKEDIN_URL) • [Portfolio](YOUR_PORTFOLIO_URL) • [Email](mailto:YOUR_EMAIL)
-
----
-
-⭐ If you find my projects interesting, feel free to explore my repositories!
+```text
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│  NAME        →  Meher Omprakash                     │
+│  ROLE        →  Full-Stack Developer                │
+│  FOCUS       →  AI • Product Development            │
+│  BUILDING    →  AI-powered applications             │
+│  EXPERIENCE  →  Hackathons • Real-world Projects    │
+│  ACHIEVEMENT →  National Hackathon Winner            │
+│  PATENT      →  Published                            │
+│                                                      │
+└──────────────────────────────────────────────────────┘
