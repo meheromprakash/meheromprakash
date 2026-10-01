@@ -22,7 +22,7 @@ Final-year B.Tech Computer Science student at Parul University. I build full-sta
 - 🔍 Looking for a **software engineering or APM internship**, remote or on-site, comfortable with US/EU timezone overlap
 - 🛠️ Freelance: built 6+ client websites, an LLM-powered plant-disease app, n8n lead-gen workflows and a cold-email automation system
 - 🌱 Currently going deeper on system design and scalable backend architecture
-- 💬 Ask me about LLM APIs, n8n automation, voice agents (Retell) or MERN builds
+- 💬 Ask me about LLM APIs, n8n automation, WhatsApp bots or MERN builds
 
 ---
 
@@ -37,7 +37,7 @@ Final-year B.Tech Computer Science student at Parul University. I build full-sta
 <div align="center">
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenRouter_LLM_APIs-1E1E2E?style=flat-square"/>
-<img src="https://img.shields.io/badge/Retell_AI-1E1E2E?style=flat-square"/>
+<img src="https://img.shields.io/badge/WhatsApp_Business_API-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apify-1E1E2E?style=flat-square"/>
 <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
 </div>
